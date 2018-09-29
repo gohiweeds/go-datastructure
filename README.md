@@ -10,7 +10,7 @@ Inspired by Radix Tree, which is the core of Echo web framework, since it can be
 integrated into website, why we can't implement it as a standalone package for people
 to use.
 
-## Supoort
+## Support
 
 	list - double linked list, implemented with mutex lock to keep data safe, support
 		all type of data
